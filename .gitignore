@@ -3,3 +3,6 @@
 ################################################################################
 
 /QuickDefine/obj
+/.vs/QuickDefine/v16/Server/sqlite3
+/packages
+/.vs/QuickDefine/v16
